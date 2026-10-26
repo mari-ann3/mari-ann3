@@ -1,8 +1,6 @@
 # Hi, I'm Mari! 🧬	💻
 
-<sub>Biotechnology undergraduate at the Federal University of Ceará (UFC), Brazil.</sub>
-
-Interested in bioinformatics, computational biology and omics data analysis.
+Biotechnology student at the Federal University of Ceará (UFC) exploring computational biology and omics data.
 
 ## Interests
 - Bioinformatics and computational biology
